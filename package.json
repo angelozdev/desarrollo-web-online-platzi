@@ -1,0 +1,19 @@
+{
+  "name": "desarrollo-web-online",
+  "version": "0.0.1",
+  "description": "Curos de Desarrollo Web Online -Platzi- Carrera de Arquitectura Front-End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Angelo Zambrano",
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
